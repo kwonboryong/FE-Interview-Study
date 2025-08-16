@@ -23,7 +23,7 @@ Promise는 **비동기 작업의 결과 값을 나타내는 객체**입니다.
 Promise는 resolve와 reject를 파라미터로 받는데, <br/>
 **작업이 성공하면 resolve 함수, 실패하면 reject 함수를 호출**합니다.
 
-<br/><br/>
+<br/>
 
 **Promise 메서드**
 
@@ -156,6 +156,6 @@ console.log(fn()); // 10
 둘 다 **불필요한 연산을 줄여서 성능 최적화하는 기법**이지만, <br/>
 디바운스는 "마지막에 한 번만 실행"하고, 스로틀은 "주기적으로 제한"한다는 차이가 있습니다.
 
-<img width="758" height="200" alt="image" src="https://github.com/user-attachments/assets/d1bbd05c-4ae0-4af8-9788-9afdda3032aa" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d1bbd05c-4ae0-4af8-9788-9afdda3032aa" />
 
 <br/>
