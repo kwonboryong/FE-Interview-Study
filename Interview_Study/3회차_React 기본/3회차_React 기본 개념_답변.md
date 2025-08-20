@@ -126,8 +126,14 @@ DOM은 **HTML 문서를 브라우저가 이해할 수 있는 객체 트리 구�
 
 - **useEffect()의 두 번째 인자로 빈 배열([])을 넣으면** <br/>
   ⇒ **componentDidMount() 메서드**처럼 처음 마운트될 때 한 번 실행됩니다.
+
+  <br/>
+
 - **useEffect() 내부에서 return 함수를 반환하면** <br/>
   ⇒ **componentWillUnmount() 메서드**처럼 컴포넌트가 언마운트 될 때 실행돼서 정리(clean-up) 작업을 할 수 있습니다.
+
+  <br/>
+
 - **의존성 배열(= useEffect()의 두 번째 인자)에 값을 넣으면** <br/>
   ⇒ 해당 값이 바뀔 때마다 실행되어서 **componentDidUpdate() 메서드 역할**을 합니다.
 
