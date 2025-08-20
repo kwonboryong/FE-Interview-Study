@@ -1,6 +1,6 @@
 ## 4회차 | React 기본(2) 개념 정리 (State, React Hooks, 메모이제이션, Props 등)
 
-> 📅 날짜: 2025-08-25 (월)
+> 📅 날짜: 2025-08-25 (월) <br/>
 > 📚 주제: React 기본(2) 개념 정리 (State, React Hooks, 메모이제이션, Props 등)
 
 <br/>
