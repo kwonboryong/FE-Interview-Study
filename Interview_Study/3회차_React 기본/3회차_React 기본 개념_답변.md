@@ -1,4 +1,4 @@
-## 3회차 | React 기본 개념 정리
+## 3회차 | React 기본 개념 답변 정리
 
 > 📅 날짜: 2025-08-21 (목) <br/>
 > 📚 주제: React 기본 개념 정리 (React, JSX, Virtual DOM, Lifecycle 등)
