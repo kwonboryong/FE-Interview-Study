@@ -137,18 +137,17 @@ DOM은 **HTML 문서를 브라우저가 이해할 수 있는 객체 트리 구�
 - **의존성 배열(= useEffect()의 두 번째 인자)에 값을 넣으면** <br/>
   ⇒ 해당 값이 바뀔 때마다 실행되어서 **componentDidUpdate() 메서드 역할**을 합니다.
 
-```
-import React, { useEffect } from 'react';
+```jsx
+import React, { useEffect } from "react";
 
 function MyComponent() {
-
   // 마운트 시 실행
   useEffect(() => {
-    console.log('컴포넌트가 화면에 나타났습니다.');
+    console.log("컴포넌트가 화면에 나타났습니다.");
 
     // 언마운트 시 실행되는 정리 함수
     return () => {
-      console.log('컴포넌트가 화면에서 사라집니다.');
+      console.log("컴포넌트가 화면에서 사라집니다.");
     };
   }, []); // 빈 배열: 마운트와 언마운트 때만 실행
 
