@@ -18,7 +18,7 @@
 
 ---
 
-- **예상 스터디 일정(횟수) :** **8/14 (목) 시작 예정**
+- **예상 스터디 일정(횟수) :** **8/14 (목) 시작**
   - 먼저 4주 운영 예정, 이후 원할 시 연장
 - **월요일, 목요일 오후 4시 진행**
 
@@ -47,16 +47,16 @@
 
 ---
 
-| 회차  | 주제                                            |
-| ----- | ----------------------------------------------- |
-| 1회차 | JavaScript (변수, 스코프, this 등 기본 개념)    |
-| 2회차 | JavaScript (이벤트, 실행 컨텍스트, 복사 등)     |
-| 3회차 | JavaScript (비동기, 이벤트 루프, 프로토타입 등) |
-| 4회차 | React (컴포넌트 구조, props/state, 리렌더링 등) |
-| 5회차 | React (useEffect, 커스텀 훅, 조건부 렌더링 등)  |
-| 6회차 | React (상태관리, 최적화, 성능 관련)             |
-| 7회차 | 종합 Mock 면접 (JS + React 랜덤)                |
-| 8회차 | 이력서 & 포트폴리오 기반 질문                   |
+| 회차  | 주제                                                                                                                                                                                                                                                                                                |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1회차 | [JavaScript 기본 개념 정리 (변수, 호이스팅, 이벤트 전파 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/1%ED%9A%8C%EC%B0%A8_JavaScript%20%EA%B8%B0%EB%B3%B8/1%ED%9A%8C%EC%B0%A8_JS%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)                                   |
+| 2회차 | [JavaScript 심화 개념 정리 (실행 컨텍스트, 비동기, 프로토타입 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/2%ED%9A%8C%EC%B0%A8_JavaScript%20%EC%8B%AC%ED%99%94/2%ED%9A%8C%EC%B0%A8_JS%20%EC%8B%AC%ED%99%94%20%EA%B0%9C%EB%85%90.md)                             |
+| 3회차 | [React 기본 개념 정리 (React, JSX, Virtual DOM, Lifecycle 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/3%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8/3%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)                                   |
+| 4회차 | [React 기본(2) 개념 정리 (State, React Hooks, 메모이제이션, Props 등)](<https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/4%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8(2)/4%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90(2).md>)                   |
+| 5회차 | [React 심화 개념 정리 (상태 관리, 상태 끌어올리기, 상향식 데이터 전달 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/5%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94/5%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94%20%EA%B0%9C%EB%85%90.md)                       |
+| 6회차 | [React 심화(2) 개념 정리 (컴포넌트, 리렌더링 조건, SSR/CSR, 성능 최적화, 코드 스플리팅)](<https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/6%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94(2)/6%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94(2)%20%EA%B0%9C%EB%85%90.md>) |
+| 7회차 | 종합 Mock 면접 (JS + React 랜덤)                                                                                                                                                                                                                                                                    |
+| 8회차 | 이력서 & 포트폴리오 기반 질문                                                                                                                                                                                                                                                                       |
 
 <br/><br/>
 <br/>
