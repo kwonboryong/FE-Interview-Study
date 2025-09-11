@@ -18,9 +18,8 @@
 
 ---
 
-- **예상 스터디 일정(횟수) :** **8/14 (목) 시작**
-  - 먼저 4주 운영 예정, 이후 원할 시 연장
-- **월요일, 목요일 오후 4시 진행**
+- **스터디 일정** : **8/14 (목) ~ 진행 중**
+  - 월요일, 목요일 오후 4시 진행
 
 <br/><br/>
 
@@ -47,16 +46,24 @@
 
 ---
 
-| 회차  | 주제                                                                                                                                                                                                                                                                                                |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1회차 | [JavaScript 기본 개념 정리 (변수, 호이스팅, 이벤트 전파 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/1%ED%9A%8C%EC%B0%A8_JavaScript%20%EA%B8%B0%EB%B3%B8/1%ED%9A%8C%EC%B0%A8_JS%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)                                   |
-| 2회차 | [JavaScript 심화 개념 정리 (실행 컨텍스트, 비동기, 프로토타입 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/2%ED%9A%8C%EC%B0%A8_JavaScript%20%EC%8B%AC%ED%99%94/2%ED%9A%8C%EC%B0%A8_JS%20%EC%8B%AC%ED%99%94%20%EA%B0%9C%EB%85%90.md)                             |
-| 3회차 | [React 기본 개념 정리 (React, JSX, Virtual DOM, Lifecycle 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/3%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8/3%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)                                   |
-| 4회차 | [React 기본(2) 개념 정리 (State, React Hooks, 메모이제이션, Props 등)](<https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/4%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8(2)/4%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90(2).md>)                   |
-| 5회차 | [React 심화 개념 정리 (상태 관리, 상태 끌어올리기, 상향식 데이터 전달 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/5%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94/5%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94%20%EA%B0%9C%EB%85%90.md)                       |
-| 6회차 | [React 심화(2) 개념 정리 (컴포넌트, 리렌더링 조건, SSR/CSR, 성능 최적화, 코드 스플리팅)](<https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/6%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94(2)/6%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94(2)%20%EA%B0%9C%EB%85%90.md>) |
-| 7회차 | 종합 Mock 면접 (JS + React 랜덤)                                                                                                                                                                                                                                                                    |
-| 8회차 | 이력서 & 포트폴리오 기반 질문                                                                                                                                                                                                                                                                       |
+| 회차   | 주제                                                                                                                                                                                                                                                                                                                   |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1회차  | [JavaScript 기본 개념 정리 (변수, 호이스팅, 이벤트 전파 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/1%ED%9A%8C%EC%B0%A8_JavaScript%20%EA%B8%B0%EB%B3%B8/1%ED%9A%8C%EC%B0%A8_JS%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)                                                      |
+| 2회차  | [JavaScript 심화 개념 정리 (실행 컨텍스트, 비동기, 프로토타입 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/2%ED%9A%8C%EC%B0%A8_JavaScript%20%EC%8B%AC%ED%99%94/2%ED%9A%8C%EC%B0%A8_JS%20%EC%8B%AC%ED%99%94%20%EA%B0%9C%EB%85%90.md)                                                |
+| 3회차  | [React 기본 개념 정리 (React, JSX, Virtual DOM, Lifecycle 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/3%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8/3%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)                                                      |
+| 4회차  | [React 기본(2) 개념 정리 (State, React Hooks, 메모이제이션, Props 등)](<https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/4%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8(2)/4%ED%9A%8C%EC%B0%A8_React%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90(2).md>)                                      |
+| 5회차  | [React 심화 개념 정리 (상태 관리, 상태 끌어올리기, 상향식 데이터 전달 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/5%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94/5%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94%20%EA%B0%9C%EB%85%90.md)                                          |
+| 6회차  | [React 심화(2) 개념 정리 (컴포넌트, 리렌더링 조건, SSR/CSR, 성능 최적화, 코드 스플리팅)](<https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/6%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94(2)/6%ED%9A%8C%EC%B0%A8_React%20%EC%8B%AC%ED%99%94(2)%20%EA%B0%9C%EB%85%90.md>)                    |
+| 7회차  | [인성 & 경험 질문 정리](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/7%ED%9A%8C%EC%B0%A8_%EC%9D%B8%EC%84%B1%20%26%20%EA%B2%BD%ED%97%98/7%ED%9A%8C%EC%B0%A8_%EC%9D%B8%EC%84%B1%20%26%20%EA%B2%BD%ED%97%98.md)                                                                            |
+| 8회차  | [이력서 & 포트폴리오 기반](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/8%ED%9A%8C%EC%B0%A8_%EC%9D%B4%EB%A0%A5%EC%84%9C%20%26%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/8%ED%9A%8C%EC%B0%A8_%EC%9D%B4%EB%A0%A5%EC%84%9C%20%26%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.md) |
+| 9회차  | [Next.js (개념, 주요 기능, 라우팅, 동적 라우팅, useRouter, Link 등)](https://github.com/kwonboryong/FE-Interview-Study/blob/main/Interview_Study/9%ED%9A%8C%EC%B0%A8_Next.js%20%EA%B8%B0%EB%B3%B8/9%ED%9A%8C%EC%B0%A8_Next.js%20%EA%B8%B0%EB%B3%B8.md)                                                                 |
+| 10회차 | Next.js (Next.js 14 렌더링 전략: SSR, CSR, SSG, ISR, 데이터 페칭, API Routes)                                                                                                                                                                                                                                          |
+| 11회차 | Next.js (성능 최적화, 코드 스플리팅, Dynamic Import, Hydration, Server Actions)                                                                                                                                                                                                                                        |
+| 12회차 | 네트워크 (브라우저 동작: 주소창 입력 → 렌더링 파이프라인, CRP 최적화, Reflow/Repaint, 크로스브라우징, SEO)                                                                                                                                                                                                             |
+| 13회차 | 네트워크 (HTTP 메서드, GET/POST/PUT/PATCH 차이, RESTful API, HTTP vs HTTPS, CORS, 서버 vs 클라이언트)                                                                                                                                                                                                                  |
+| 14회차 | 네트워크 (localStorage/sessionStorage/cookie, Payload vs Header, OAuth)                                                                                                                                                                                                                                                |
+| 15회차 | 네트워크 (SPA, 번들러(webpack/rollup), 코드 설계, TDD, Enter 이벤트 처리)                                                                                                                                                                                                                                              |
+| 16회차 | Mock 면접 (Next.js + 네트워크 랜덤 문제 종합)                                                                                                                                                                                                                                                                          |
 
 <br/><br/>
 <br/>
